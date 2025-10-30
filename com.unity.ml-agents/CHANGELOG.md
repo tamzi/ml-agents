@@ -10,12 +10,13 @@ and this project adheres to
 ### Minor Changes
 #### com.unity.ml-agents (C#)
 - Fixed tensor indexing to use correct CHW layout (#6239)
+- Updated the installation doc (#6242)
 
 #### ml-agents / ml-agents-envs
 - Set the Torch version constraint to 2.8 (#6251)
 - Fixed CUDA/CPU mismatch in threaded training (#6245)
 
-## [4.0.0] - 2025-08-15
+## [4.0.0] - 2025-08-28
 ### Major Changes
 #### com.unity.ml-agents (C#)
 - Upgraded to Inference Engine 2.2.1 (#6212)
